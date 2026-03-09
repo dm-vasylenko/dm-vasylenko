@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Software Engineer with over 5 years of experience, I specialize in Magento 2 development, with a strong focus on backend solutions and API
+I'm a Software Engineer with over 6 years of experience, I specialize in Magento 2 development, with a strong focus on backend solutions and API
 development. I have a proven track record of upgrading Magento platforms, implementing custom features, and integrating with third-party systems to
 improve business operations. My expertise spans both backend and frontend development, including Magento 1 and Magento 2
 (Commerce, Cloud, PWA), as well as API development using REST and GraphQL. I have also worked extensively with technologies such as MySQL,
